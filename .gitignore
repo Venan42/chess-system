@@ -15,6 +15,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 .idea/
+chess-system.iml
 
 ### NetBeans ###
 /nbproject/private/
